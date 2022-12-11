@@ -1,20 +1,84 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+First ADO Build Pipeline using YAML  
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+# Step by Step process:
+Getting started with YAML in ADO:
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/1_ADO_NewProject.png)
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/2_ADO_CreateProject.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/3_ADO_NewProject_Dashboard.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/4_ADO_Create_First_Repository.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/5_ADO_Created_First_Repository.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/6_ADO_Created_First_Repository.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/7_ADO_Created_First_YAML.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/8_ADO_Created_First_YAML.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/9_ADO_Ran_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/10_ADO_Ran_Build_Pipeline_Steps_Success.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/11_ADO_Ran_Build_Pipeline_Steps_Success.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/12_ADO_Ran_Build_Pipeline_Steps_Success.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/13_ADO_Ran_Build_Pipeline_Steps_Success.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/15_ADO_Ran_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/16_ADO_Ran_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/17_ADO_Add_Powershell_Task_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/18_ADO_Add_Powershell_Task_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/19_ADO_Add_Powershell_Task_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/20_ADO_Add_Powershell_Task_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/21_ADO_Add_Powershell_Task_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/22_ADO_Add_Powershell_Task_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/23_ADO_Add_Powershell_Task_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/24_ADO_Add_Powershell_Task_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/25_ADO_Add_Powershell_Task_Build_Pipeline.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/26_ADO_Add_Powershell_file.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/27_ADO_Clone_Repo.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/28_ADO_Clone_Repo.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/29_ADO_Cloned_Repo.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/30_ADO_VisualStudioCode.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/31_ADO_VisualStudioCode.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/32_ADO_VisualStudioCode.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/33_ADO_VisualStudioCode_NewFile.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/34_ADO_VisualStudioCode_NewFile.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/35_ADO_VisualStudioCode_Commit.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/36_ADO_VisualStudioCode_Commit.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/37_ADO_Powershell_Script_FromFile.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/38_ADO_Powershell_Script_FromFile.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/39_ADO_Powershell_Script_FromFile.png)
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/ADO_Yaml/40_ADO_Powershell_Script_FromFile.png)
