@@ -23,10 +23,10 @@ If you want to learn more about Test-Json (Microsoft powershell utility), please
 # Invalid JSON:
 
 * Invalid json file with missing comma:
-![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/PowershellYaml/ADO_Screens/Invalid_Json_MissingComma.png)
+- ![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/PowershellYaml/ADO_Screens/Invalid_Json_MissingComma.png)
 
 * ADO task output for missing JSON:
-![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/PowershellYaml/ADO_Screens/Failed_Output.png)
+- ![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/PowershellYaml/ADO_Screens/Failed_Output.png)
 
 # Valid JSON
 
