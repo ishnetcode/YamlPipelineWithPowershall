@@ -1,20 +1,38 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+Validate json files from ADO Build pipeline
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# Getting started
+* Clone/Fork this repository
+* This repository conatins two JSON files: 
+** MyFirstJson.json (in root folder)
+** File/NewJson.json
+<!--- Please note: both files are valid in this repository--->
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+* Now create a Pipeline in ADO using existing YAML pipeline & select ![azure-pipelines.yaml](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/PowershellYaml/azure-pipelines.yml) for creating the pipeline.
+<!--- If you are new to ADO pipeline creation then please follow the instructions mention ![here](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/MyFirstYamlPipeline/README.md)--->
+
+* Now Run the pipeline - It Should be up and running without any issue.
+
+* Modify any of the json file and try adding some invalid json (please see the following #Invalid Json section, which shows a file with missing comma - parsing error)
+
 
 # Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+If you want to learn more about Test-Json (Microsoft powershell utility), please see the following Microsoft documentation:
+- [Test-JSON](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/test-json?view=powershell-7.3)
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+# Invalid JSON:
+
+* Invalid json file with missing comma:
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/PowershellYaml/ADO_Screens/Invalid_Json_MissingComma.png)
+
+* ADO task output for missing JSON:
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/PowershellYaml/ADO_Screens/Failed_Output.png)
+
+# Valid JSON
+
+* ADO task output
+
+![](https://github.com/ishnetcode/YamlPipelineWithPowershall/blob/main/PowershellYaml/ADO_Screens/ValidJson.png)
+
+
+
